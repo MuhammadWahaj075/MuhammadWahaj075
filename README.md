@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I'm a frontend developer who loves react!
+I'm a passionate frontend developer who loves react!
 
 * 🌍  I'm based in karachi,Pakistan
 * 🖥️  See my portfolio at [https://wahaj04.github.io/ResumeCV.html](http://wahaj04.github.io/ResumeCV.html)
