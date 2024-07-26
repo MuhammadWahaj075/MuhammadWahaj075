@@ -7,7 +7,7 @@ Frontend Developer
 I'm a passionate frontend developer who loves react!
 
 * 🌍  I'm based in karachi,Pakistan
-* 🖥️  See my portfolio at [https://wahaj04.github.io/ResumeCV.html](http://wahaj04.github.io/ResumeCV.html)
+* 🖥️  See my portfolio at [https://wahaj-dev.netlify.app/](https://wahaj-dev.netlify.app/)
 * ✉️  You can contact me at [wahajsiddiqui07@gmail.com](mailto:wahajsiddiqui07@gmail.com)
 * 🚀  I'm currently working on [Saddlefit](https://main2.dbom1x5jlgygm.amplifyapp.com/dashboard)
 * 🧠  I'm learning React
