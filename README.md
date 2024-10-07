@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I'm a passionate frontend developer who loves react!
+I'm a passionate front-end developer who loves React!
 
-* 🌍  I'm based in karachi,Pakistan
+* 🌍  I'm based in Karachi, Pakistan
 * 🖥️  See my portfolio at [https://wahaj-dev.netlify.app/](https://wahaj-dev.netlify.app/)
 * ✉️  You can contact me at [wahajsiddiqui07@gmail.com](mailto:wahajsiddiqui07@gmail.com)
-* 🚀  I'm currently working on [Saddlefit](https://main2.dbom1x5jlgygm.amplifyapp.com/dashboard)
+* 🚀  I'm currently working on [Geeksvisor](https://www.geeksvisor.com/)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I am Batman, Tell Everyone
