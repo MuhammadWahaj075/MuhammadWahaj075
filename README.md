@@ -7,6 +7,7 @@ Frontend Developer
 I'm a passionate front-end developer who loves React!
 
 * 🌍  I'm based in Karachi, Pakistan
+* 👉  Vist my profile [https://registry.jsonresume.org/MuhammadWahaj075)
 * 🖥️  See my portfolio at [https://wahaj-dev.netlify.app/](https://wahaj-dev.netlify.app/)
 * ✉️  You can contact me at [wahajsiddiqui07@gmail.com](mailto:wahajsiddiqui07@gmail.com)
 * 🚀  I'm currently working on [Geeksvisor](https://www.geeksvisor.com/)
