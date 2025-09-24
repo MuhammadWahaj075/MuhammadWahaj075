@@ -1,52 +1,98 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammad Wahaj
-======================================================================================================================================
+<div align="center">
+  
+# Hi 👋, I'm Muhammad Wahaj
 
-Frontend Developer
-------------------
+</div>
 
-I'm a passionate front-end developer who loves React!
+## My Stack?! Whatever it takes...
 
-* 🌍  I'm based in Karachi, Pakistan
-* 👉  Vist my profile [https://registry.jsonresume.org/MuhammadWahaj075](https://registry.jsonresume.org/MuhammadWahaj075)
-* 🖥️  See my portfolio at [https://wahaj-dev.netlify.app/](https://wahaj-dev.netlify.app/)
-* ✉️  You can contact me at [wahajsiddiqui07@gmail.com](mailto:wahajsiddiqui07@gmail.com)
-* 🚀  I'm currently working on [Geeksvisor](https://www.geeksvisor.com/)
-* 🧠  I'm learning React
-* 🤝  I'm open to collaborating on Projects
-* ⚡  I am Batman, Tell Everyone
+**Frontend Developer** - React | JavaScript | TypeScript | HTML | CSS | Node.js | Python | NestJS
 
-### Skills
+Results-driven Full-Stack Developer with expertise in building modern, scalable, and robust solutions that solve real problems and drive measurable product value.
 
+<div align="center">
+  <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/raw/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>
+  
+  <img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/raw/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/raw/master/icons/express/express-original.svg" alt="Express" width="50" height="50"/>
+  
+  <img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
+</div>
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+---
 
+## Tools:
 
-### Socials
+<div align="center">
+  <img src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/raw/master/icons/postman/postman-original.svg" alt="Postman" width="50" height="50"/>
+</div>
 
-<p align="left"> <a href="https://www.codepen.io/m-h-mm-d-w-h-j-s-dd-q" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/wahaj.shafiq.7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/MuhammadWahaj075" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/hafiz-muhammad-wahaj-siddiqui-3a331523b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+---
 
-### Badges
+## My GitHub Stats
 
-<b>My GitHub Stats</b>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadWahaj075&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+      </td>
+      <td rowspan="2">
+        <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=MuhammadWahaj075&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-<a href="http://www.github.com/MuhammadWahaj075"><img src="https://github-readme-stats.vercel.app/api?username=MuhammadWahaj075&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MuhammadWahaj075's GitHub stats" /></a>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadWahaj075&theme=dark&hide_border=true" alt="GitHub Streak" />
+</div>
 
-<a href="http://www.github.com/MuhammadWahaj075"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadWahaj075&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+---
 
-<a href="http://www.github.com/MuhammadWahaj075"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=MuhammadWahaj075&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<div align="center">
+  
+## Today's Developer Quote
 
-<a href="https://github.com/MuhammadWahaj075" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadWahaj075&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+*"I invented the Web just because I needed it, really, because it was so frustrating that it didn't exist."*
+
+**- Tim Berners-Lee**
+
+</div>
+
+---
+
+<div align="center">
+  
+## Reach Me Here
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wahajsiddiqui07@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-discord)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 🌍 Based in Karachi, Pakistan
+### 👤 [Visit my profile](https://registry.jsonresume.org/MuhammadWahaj075)
+### 
