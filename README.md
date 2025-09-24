@@ -1,91 +1,138 @@
-<div align="center">
-  
 # Hi 👋, I'm Muhammad Wahaj
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+Enthusiast;Full+Stack+Engineer;Always+Learning" alt="Typing SVG" />
 </div>
+
+---
 
 ## My Stack?! Whatever it takes...
 
-**Frontend Developer** - React | JavaScript | TypeScript | HTML | CSS | Node.js | Python | NestJS
+**Software Engineer** - Frontend | React | JavaScript | TypeScript | Node.js | Python | NestJS
 
 Results-driven Full-Stack Developer with expertise in building modern, scalable, and robust solutions that solve real problems and drive measurable product value.
 
+---
+
 <div align="center">
-  <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/raw/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-  
-  <img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/raw/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/raw/master/icons/express/express-original.svg" alt="Express" width="50" height="50"/>
-  
-  <img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
 ---
 
-## Tools:
+## 🛠️ Tech Stack:
 
 <div align="center">
-  <img src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/raw/master/icons/postman/postman-original.svg" alt="Postman" width="50" height="50"/>
-</div>
 
----
+### Frontend & Core Technologies
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,sass,materialui" />
 
-## My GitHub Stats
+### Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,python,mongodb,firebase" />
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadWahaj075&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-      </td>
-      <td rowspan="2">
-        <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=MuhammadWahaj075&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadWahaj075&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-<div align="center">
-  
-## Today's Developer Quote
-
-*"I invented the Web just because I needed it, really, because it was so frustrating that it didn't exist."*
-
-**- Tim Berners-Lee**
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,netlify,vercel" />
 
 </div>
 
 ---
 
-<div align="center">
-  
-## Reach Me Here
+## 🚀 Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+<table>
+<tr>
+<td width="50%">
+
+### 🛒 [Oyedele E-commerce Backend](https://github.com/itshasnainkhanofficial/Oyedele-ecommerce-backend)
+Advanced e-commerce backend solution with modern architecture and scalable design patterns.
+
+**Tech Stack:** `Node.js` `Express` `MongoDB` `REST APIs`
+
+</td>
+<td width="50%">
+
+### 🗄️ [Database NestJS App](https://github.com/MuhammadWahaj075/database-nest-app)  
+Production-ready database application built with NestJS framework and modern database practices.
+
+**Tech Stack:** `NestJS` `TypeScript` `Database Integration`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ⚡ [Serverless Workshop](https://github.com/MuhammadWahaj075/production-ready-serverless-workshop-wahaj)
+Comprehensive serverless development workshop with real-world implementation examples.
+
+**Tech Stack:** `Serverless` `AWS` `Node.js` `Cloud Functions`
+
+</td>
+<td width="50%">
+
+### 🐍 [Python Assignments](https://github.com/MuhammadWahaj075/Python-Assignments)
+Collection of Python programming assignments showcasing various concepts and algorithms.
+
+**Tech Stack:** `Python` `Algorithms` `Data Structures`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 My GitHub Stats
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MuhammadWahaj075&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_color=21262D" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadWahaj075&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=21262D" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadWahaj075&theme=tokyonight&background=0D1117&border=21262D&stroke=58A6FF&ring=58A6FF&fire=FF7B72&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" />
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadWahaj075&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&hide_border=true" width="100%" />
+</div>
+
+---
+
+## 💡 Today's Developer Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg_color=0D1117&border=21262D" />
+</div>
+
+---
+
+## 🌍 About Me
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+- 🌍 I'm based in **Karachi, Pakistan**
+- 👤 Visit my profile: [JSON Resume](https://registry.jsonresume.org/MuhammadWahaj075)
+- 🖥️ See my portfolio: [wahaj-dev.netlify.app](https://wahaj-dev.netlify.app/)
+- ✉️ Contact me: **wahajsiddiqui07@gmail.com**
+- 🚀 Currently working on **Geekvisor**
+- 🧠 I'm learning **Advanced React Patterns**
+- 🤝 Open to collaborating on **Frontend Projects**
+- ⚡ Fun fact: **I am Batman, Tell Everyone** 🦸‍♂️
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-wahaj-075)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://wahaj-dev.netlify.app/)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://registry.jsonresume.org/MuhammadWahaj075)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wahajsiddiqui07@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-discord)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadWahaj075)
 
 </div>
 
@@ -93,6 +140,17 @@ Results-driven Full-Stack Developer with expertise in building modern, scalable,
 
 <div align="center">
   
-### 🌍 Based in Karachi, Pakistan
-### 👤 [Visit my profile](https://registry.jsonresume.org/MuhammadWahaj075)
-### 
+### 🎯 "Code. Create. Innovate."
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=MuhammadWahaj075&color=58a6ff&style=for-the-badge&label=Profile+Views)
+![GitHub Followers](https://img.shields.io/github/followers/MuhammadWahaj075?color=58a6ff&style=for-the-badge&label=Followers&logo=github)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer" width="100%" />
+</div>
