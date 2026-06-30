@@ -8,7 +8,7 @@
 
 ## My Stack?! Whatever it takes...
 
-**Software Engineer** - Frontend | React | JavaScript | TypeScript | Node.js | Python | NestJS
+**Software Engineer** - Full Stack Developer | Node.js | TypeScript | Next.js | React | AWS Serverless
 
 Results-driven Full-Stack Developer with expertise in building modern, scalable, and robust solutions that solve real problems and drive measurable product value.
 
