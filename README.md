@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About
 
-Full Stack Engineer with 3+ years of experience building scalable, cloud-native web applications and AI-powered features for startups and businesses, from idea to production.
+Full Stack Engineer with 4+ years of experience building scalable, cloud-native web applications and AI-powered features for startups and businesses, from idea to production.
 
 I work with **Next.js, React, Node.js, PostgreSQL and GraphQL**, build serverless backends on **AWS** (Lambda, API Gateway, DynamoDB, EventBridge, S3), and integrate **OpenAI and Claude APIs** into real products.
 
