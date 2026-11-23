@@ -1,4 +1,4 @@
-# Hi 👋, I'm Muhammad Wahaj Siddiqui
+# Hi 👋, I'm Wahaj Siddiqui
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Cloud-Native+Full+Stack+Engineer;Next.js+%7C+Node.js+%7C+TypeScript;AWS+Serverless+Developer;AI+%2F+LLM+Integration+(OpenAI+%26+Claude)" alt="Typing SVG" />
